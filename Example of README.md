@@ -1,6 +1,6 @@
 # test for the exam
 ## John Mastrapas
 *italics* 
-** bold **
+**bold**
 * first
 * second
