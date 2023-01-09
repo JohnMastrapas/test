@@ -1,4 +1,4 @@
-# test for the exam
+# Example of README.md
 ## John Mastrapas
 *italics* 
 **bold**
